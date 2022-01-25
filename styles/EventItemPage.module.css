@@ -1,0 +1,13 @@
+.eventItemPage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  row-gap: 15px;
+  background-color: #fff;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.eventItemPage h1 {
+  font-size: 160%;
+}

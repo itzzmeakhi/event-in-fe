@@ -1,0 +1,9 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer p:nth-child(2) {
+  color: #563de1;
+}

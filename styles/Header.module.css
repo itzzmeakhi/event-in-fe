@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #fff;
+  padding: 0px 30px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.logo a {
+  font-size: 125%;
+  font-weight: 600;
+  color: #563de1;  
+}

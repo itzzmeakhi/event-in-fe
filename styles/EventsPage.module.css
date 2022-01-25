@@ -1,0 +1,9 @@
+.eventsPage {
+  background-color: #fff;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.eventsPage h1 {
+  font-size: 180%;
+}
